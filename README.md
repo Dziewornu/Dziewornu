@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dziewornu
 - 👀 I’m new to the IT world
 - 🌱 I’m currently learning to become devOps engineer
-- 💞️ I’m looking forward to collaborate other members of this platform to make my studies successful
+- 💞️ I’m looking forward to collaborate with other members of this platform to make my studies successful
 - 📫 How to reach me; jiewornu@gmail.com
 - 😄 Pronouns: N/A
 - ⚡ Fun fact: N/A
